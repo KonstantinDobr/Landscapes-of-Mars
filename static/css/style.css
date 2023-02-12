@@ -1,0 +1,21 @@
+#main_header {
+  color: #d22e3a;
+}
+
+#body {
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: lightsalmon;
+}
+
+#photoform {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: lightsalmon;
+}
